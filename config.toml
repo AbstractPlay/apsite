@@ -71,5 +71,7 @@ paginate = "10"
   email = "aaron@abstractplay.com"
 
 [[Params.widgets.social.custom]]
-  title = "Personal Website"
-  url = "https://perlkonig.com"
+  title = "Discord"
+  icon = "discord.svg"
+  rel = "noopener noreferrer"
+  url = "https://discord.gg/7dmx7BwRzg"
