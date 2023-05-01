@@ -2,7 +2,7 @@
 title: Getting started
 description: Getting started with Abstract Play
 lead: This article helps you get started with Abstract Play.
-date: 2022-12-29T22:00:00.000Z
+date: 2023-04-30T21:00:00.000Z
 #weight: 5
 ---
 
@@ -25,4 +25,8 @@ Setting your account as `anonymous` lets you enjoy the site without creating any
 
 ## Accepting Existing Challenges
 
+If anyone has challenged you directly, then the challenge will appear on your dashboard. If you want to find an open challenge, go to the Games page and find the game you're interested in.
+
 ## Issuing Your Own Challenges
+
+From your dashboard you can create open and closed challenges for any game.

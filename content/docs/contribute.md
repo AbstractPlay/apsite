@@ -2,13 +2,21 @@
 title: Getting Involved
 description: Participate in Abstract Play development
 lead: This article discusses how to participate in Abstract Play development.
-date: 2022-12-29T21:00:00.000Z
+date: 2023-04-30T21:00:00.000Z
 #weight: 10
 ---
 
 Abstract Play is an open-source project, and participation is warmly welcomed! Whether coding new games, translating strings, or just fixing bugs, this article has instructions on how to get involved.
 
 <!--more-->
+
+## Translations
+
+The most common way people contribute is to translate game messages into their native language. We're finalizing instructions, but in the meantime, if you want to get started, please email [support@abstractplay.com](mailto:support@abstractplay.com).
+
+## Process
+
+If you want to contribute code, the normal way is through a pull request. Each repository (see below) has a README that explains how to set up a local environment. Don't hesitate to [reach out to the developers](mailto:support@abstractplay.com) with any questions.
 
 ## Repositories
 
@@ -26,10 +34,4 @@ All of Abstract Play's source code lives on [GitHub @AbstractPlay](https://githu
 
 - [recranks](https://github.com/AbstractPlay/recranks): The records and rankings code is what generates ratings and other statistics from the ever-growing pool of completed games. This is still very much a work in progress.
 
-## Process
 
-All submissions must be in the form of a pull request. Each repository has a README that explains how to set up a local environment. Don't hesitate to reach out to the developers with any questions.
-
-## Translations
-
-The most common way people contribute is to translate game messages into their native language. Once finalized, detailed instructions will appear here.

@@ -1,18 +1,21 @@
 ---
-title: "December 2021 Progress Report"
-date: "2021-12-16"
+title: "Public Beta!"
+date: "2023-05-01"
 categories:
     - "Development Status"
 ---
 
-Things have been moving along at a good clip. [The renderer](https://github.com/AbstractPlay/renderer) is in a very good place. It now works properly in Chrome, Firefox, Opera, and Edge, and [a new demo/playground area is now available](https://abstractplay.com/renderer/), if you want to see what it can do.
+I thought it might never happen, but it's finally here. [It's public beta time!](https://play.abstractplay.com)!
 
-The [games library](https://github.com/AbstractPlay/gameslib) is also in a stable place now. The following games have been implemented so far:
+We're very happy with the core functionality, but we'd love some concrete feedback from users on how to make things better. I hope you will [join us on Discord](https://discord.gg/7dmx7BwRzg) and let us know if you run into any trouble or have any ideas.
 
 <!--more-->
 
+The following 28 games are currently available:
+
 * [Abande](https://spielstein.com/games/abande/rules)
 * [Accasta](https://spielstein.com/games/accasta)
+* [Alfred's Wyke](https://www.abstractgames.org/alfredswyke.html)
 * [Amazons](https://en.wikipedia.org/wiki/Amazons_%28game%29)
 * [Archimedes](http://www.di.fc.ul.pt/~jpn/gv/archimedes.htm)
 * [Attangle](https://spielstein.com/games/attangle/rules)
@@ -21,6 +24,7 @@ The [games library](https://github.com/AbstractPlay/gameslib) is also in a stabl
 * [Cannon](https://nestorgames.com/rulebooks/CANNON_EN.pdf)
 * [Cephalopod](http://www.marksteeregames.com/Cephalopod_rules.pdf)
 * [Chase](https://en.wikipedia.org/wiki/Chase_(board_game))
+* [Dipole](http://www.marksteeregames.com/Dipole_rules.pdf)
 * [Entropy](https://boardgamegeek.com/boardgame/1329/hyle)
 * [Epaminondas](http://www.logicmazes.com/games/epam.html)
 * [Fabrik](https://spielstein.com/games/fabrik)
@@ -29,8 +33,8 @@ The [games library](https://github.com/AbstractPlay/gameslib) is also in a stabl
 * [Lines of Action](https://en.wikipedia.org/wiki/Lines_of_Action)
 * [Manalath](https://spielstein.com/games/manalath/rules)
 * [Martian Chess](https://www.looneylabs.com/rules/martian-chess) (2 players)
-* [Monkey Queen](http://www.marksteeregames.com/Monkey_Queen_rules.html)
 * [Mega-Volcano](http://www.wunderland.com/WTS/Kristin/Games/Volcano.html#MegaVolcano) (2 players; original rules)
+* [Monkey Queen](http://www.marksteeregames.com/Monkey_Queen_rules.html)
 * [Ordo](https://spielstein.com/games/ordo)
 * [Pikemen](http://playagaingames.com/games/pikemen/) (2 players)
 * [Taiji](https://nestorgames.com/rulebooks/TAIJIDELUXE_EN.pdf)
@@ -38,8 +42,8 @@ The [games library](https://github.com/AbstractPlay/gameslib) is also in a stabl
 * [Volcano](https://www.looneylabs.com/content/volcano) (2 players; new rules)
 * [Zola](http://www.marksteeregames.com/Zola.pdf)
 
-I have a list of other SDG games to move over at some point. It will be a gradual process. And a nomination process will be instituted once we launch to guide us in what we add next.
+If you have a favourite game you'd like us to add, the best way to suggest it is to come to [our Discord server](https://discord.gg/7dmx7BwRzg) and use the `/suggest` command. And if you run into any troubles with the game or the site in general, you can use the `/report` command.
 
-We are working diligently on the hardest part, which is the front end, but it *is* coming together. Everything is fully localizable, so people will be able to contribute translations of everything. The game screen lets you explore possible game branches very smoothly. Once we have some minimum stable functionality, we'll be looking to launch an open beta to see how things go. Hopefully sometime next year.
+I want to again thank [Paul (`fritzd` at SDG)](https://github.com/paulvanwamelen) for his help in getting things to this point. I could not have done it without him.
 
-I wish you all the very best this holiday season.
+I will accept all challenges (my username is `Perlkönig`). Make time for games!
